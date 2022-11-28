@@ -1,0 +1,6 @@
+@@   New Simulation   @@
+Seed RngRun: 565
+Attack: ON
+Defence: OFF
+Attacker found. Attacking from node id: 24
+*** Sending node of udp packets is a neighbor to victim. Terminated.

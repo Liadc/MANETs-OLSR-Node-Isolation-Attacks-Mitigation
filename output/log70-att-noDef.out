@@ -1,0 +1,365 @@
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+[ 791/1649] cxx: scratch/iolsr-tests-mitigation_60-100.cc -> build/scratch/iolsr-tests-mitigation_60-100.cc.18.o
+[1627/1649] cxxprogram: build/scratch/iolsr-tests-mitigation_60-100.cc.18.o -> build/scratch/iolsr-tests-mitigation_60-100
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (3.180s)
+Sequence Number: 0, Delay: +28466390.0ns
+Sequence Number: 1, Delay: +24709499.0ns
+Sequence Number: 2, Delay: +5225121.0ns
+Sequence Number: 3, Delay: +1010977679.0ns
+Sequence Number: 9, Delay: +11252378.0ns
+Sequence Number: 12, Delay: +19164081.0ns
+Sequence Number: 13, Delay: +5225048.0ns
+Sequence Number: 14, Delay: +5225144.0ns
+Sequence Number: 15, Delay: +5225154.0ns
+Sequence Number: 16, Delay: +5225160.0ns
+Sequence Number: 17, Delay: +5225168.0ns
+Finished simulation 560 at 13:55:13  😃. Execution duration: 234 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.500s)
+Finished simulation 565 at 13:58:13  😃. Execution duration: 180 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.502s)
+Sequence Number: 0, Delay: +15679602.0ns
+Sequence Number: 1, Delay: +2565528.0ns
+Sequence Number: 2, Delay: +2565539.0ns
+Sequence Number: 3, Delay: +2565543.0ns
+Sequence Number: 4, Delay: +2565539.0ns
+Sequence Number: 5, Delay: +2565534.0ns
+Sequence Number: 6, Delay: +2565527.0ns
+Sequence Number: 7, Delay: +2565515.0ns
+Sequence Number: 8, Delay: +2565519.0ns
+Sequence Number: 10, Delay: +10585017.0ns
+Sequence Number: 11, Delay: +2565732.0ns
+Sequence Number: 12, Delay: +2565720.0ns
+Sequence Number: 13, Delay: +15236659.0ns
+Sequence Number: 14, Delay: +2565622.0ns
+Sequence Number: 15, Delay: +2565620.0ns
+Sequence Number: 16, Delay: +2565620.0ns
+Sequence Number: 17, Delay: +2565613.0ns
+Finished simulation 572 at 14:01:49  😃. Execution duration: 216 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.504s)
+Finished simulation 576 at 14:04:28  😃. Execution duration: 159 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.478s)
+Sequence Number: 0, Delay: +29408414.0ns
+Sequence Number: 1, Delay: +21895352.0ns
+Sequence Number: 3, Delay: +27733050.0ns
+Sequence Number: 4, Delay: +5224891.0ns
+Sequence Number: 5, Delay: +5224899.0ns
+Sequence Number: 7, Delay: +28253495.0ns
+Sequence Number: 11, Delay: +3011471568.0ns
+Sequence Number: 12, Delay: +1012457700.0ns
+Sequence Number: 13, Delay: +12052808.0ns
+Sequence Number: 14, Delay: +5225127.0ns
+Sequence Number: 15, Delay: +5225108.0ns
+Finished simulation 588 at 14:08:08  😃. Execution duration: 220 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.490s)
+Finished simulation 593 at 14:09:33  😃. Execution duration: 85 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.473s)
+Sequence Number: 0, Delay: +40889146.0ns
+Sequence Number: 4, Delay: +1021432812.0ns
+Sequence Number: 5, Delay: +4338391.0ns
+Sequence Number: 6, Delay: +21130729.0ns
+Sequence Number: 7, Delay: +4338490.0ns
+Sequence Number: 8, Delay: +4338480.0ns
+Sequence Number: 9, Delay: +7962087.0ns
+Sequence Number: 11, Delay: +4338453.0ns
+Sequence Number: 12, Delay: +4338438.0ns
+Sequence Number: 13, Delay: +4338417.0ns
+Sequence Number: 15, Delay: +4338412.0ns
+Sequence Number: 16, Delay: +4338400.0ns
+Sequence Number: 17, Delay: +4338413.0ns
+Finished simulation 601 at 14:12:59  😃. Execution duration: 206 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.494s)
+Sequence Number: 0, Delay: +59730040.0ns
+Sequence Number: 4, Delay: +19785933.0ns
+Sequence Number: 5, Delay: +6997927.0ns
+Sequence Number: 6, Delay: +6997904.0ns
+Sequence Number: 7, Delay: +6997872.0ns
+Finished simulation 604 at 14:16:54  😃. Execution duration: 235 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.481s)
+Sequence Number: 6, Delay: +27284381.0ns
+Sequence Number: 7, Delay: +19904099.0ns
+Sequence Number: 8, Delay: +24951905.0ns
+Sequence Number: 12, Delay: +14504700.0ns
+Sequence Number: 14, Delay: +7048126.0ns
+Sequence Number: 15, Delay: +6111151.0ns
+Finished simulation 606 at 14:20:41  😃. Execution duration: 227 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.490s)
+Finished simulation 612 at 14:24:14  😃. Execution duration: 213 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.486s)
+Sequence Number: 0, Delay: +17454677.0ns
+Sequence Number: 1, Delay: +12421252.0ns
+Sequence Number: 2, Delay: +11167097.0ns
+Sequence Number: 3, Delay: +2565825.0ns
+Sequence Number: 4, Delay: +2565820.0ns
+Sequence Number: 5, Delay: +2565832.0ns
+Sequence Number: 6, Delay: +2565833.0ns
+Sequence Number: 7, Delay: +2565821.0ns
+Sequence Number: 8, Delay: +2565831.0ns
+Sequence Number: 9, Delay: +2565836.0ns
+Sequence Number: 10, Delay: +2565836.0ns
+Sequence Number: 11, Delay: +19259055.0ns
+Sequence Number: 12, Delay: +2565749.0ns
+Sequence Number: 13, Delay: +2565741.0ns
+Sequence Number: 17, Delay: +3451808.0ns
+Finished simulation 614 at 14:28:02  😃. Execution duration: 228 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.485s)
+Sequence Number: 0, Delay: +17910275.0ns
+Sequence Number: 1, Delay: +11330593.0ns
+Sequence Number: 2, Delay: +2565507.0ns
+Sequence Number: 3, Delay: +15276784.0ns
+Sequence Number: 7, Delay: +2565621.0ns
+Sequence Number: 8, Delay: +8357534.0ns
+Sequence Number: 9, Delay: +2565506.0ns
+Sequence Number: 13, Delay: +17137553.0ns
+Sequence Number: 14, Delay: +11950885.0ns
+Sequence Number: 15, Delay: +2565711.0ns
+Sequence Number: 16, Delay: +12078109.0ns
+Sequence Number: 17, Delay: +2565681.0ns
+Finished simulation 615 at 14:31:38  😃. Execution duration: 216 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.481s)
+Sequence Number: 0, Delay: +34060698.0ns
+Sequence Number: 8, Delay: +7157647.0ns
+Sequence Number: 9, Delay: +4338574.0ns
+Sequence Number: 10, Delay: +13054603.0ns
+Sequence Number: 11, Delay: +4338500.0ns
+Sequence Number: 12, Delay: +4338525.0ns
+Sequence Number: 15, Delay: +4338560.0ns
+Sequence Number: 16, Delay: +4338575.0ns
+Sequence Number: 17, Delay: +4338573.0ns
+Finished simulation 617 at 14:36:15  😃. Execution duration: 277 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.492s)
+Sequence Number: 0, Delay: +10607548.0ns
+Sequence Number: 1, Delay: +2565534.0ns
+Sequence Number: 2, Delay: +2565537.0ns
+Sequence Number: 3, Delay: +2565535.0ns
+Sequence Number: 4, Delay: +2565533.0ns
+Sequence Number: 5, Delay: +2565526.0ns
+Sequence Number: 6, Delay: +2565522.0ns
+Sequence Number: 7, Delay: +2565521.0ns
+Sequence Number: 8, Delay: +3060449.0ns
+Sequence Number: 9, Delay: +2565493.0ns
+Sequence Number: 10, Delay: +2565469.0ns
+Sequence Number: 11, Delay: +2565483.0ns
+Sequence Number: 12, Delay: +2565489.0ns
+Sequence Number: 13, Delay: +2565491.0ns
+Sequence Number: 14, Delay: +2565474.0ns
+Sequence Number: 15, Delay: +2565458.0ns
+Sequence Number: 16, Delay: +2565444.0ns
+Sequence Number: 17, Delay: +2565453.0ns
+Finished simulation 619 at 14:39:13  😃. Execution duration: 178 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.485s)
+Sequence Number: 0, Delay: +13987143.0ns
+Sequence Number: 6, Delay: +22394322.0ns
+Sequence Number: 7, Delay: +6076711.0ns
+Sequence Number: 8, Delay: +22453653.0ns
+Sequence Number: 9, Delay: +3451902.0ns
+Finished simulation 620 at 14:42:38  😃. Execution duration: 205 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.492s)
+Finished simulation 623 at 14:45:09  😃. Execution duration: 151 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.474s)
+Sequence Number: 0, Delay: +25311017.0ns
+Sequence Number: 1, Delay: +4338329.0ns
+Sequence Number: 5, Delay: +6686881.0ns
+Sequence Number: 6, Delay: +41974651.0ns
+Sequence Number: 7, Delay: +5225289.0ns
+Sequence Number: 8, Delay: +5225295.0ns
+Sequence Number: 11, Delay: +19982715.0ns
+Sequence Number: 12, Delay: +4338688.0ns
+Sequence Number: 13, Delay: +4903672.0ns
+Sequence Number: 17, Delay: +9704976.0ns
+Finished simulation 629 at 14:49:15  😃. Execution duration: 246 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.493s)
+Sequence Number: 0, Delay: +11438619.0ns
+Sequence Number: 1, Delay: +1678875.0ns
+Sequence Number: 2, Delay: +1678841.0ns
+Sequence Number: 3, Delay: +1678827.0ns
+Sequence Number: 4, Delay: +8363039.0ns
+Sequence Number: 7, Delay: +1679022.0ns
+Sequence Number: 8, Delay: +1679017.0ns
+Sequence Number: 9, Delay: +1679005.0ns
+Sequence Number: 10, Delay: +1678990.0ns
+Sequence Number: 11, Delay: +1679009.0ns
+Sequence Number: 12, Delay: +1679025.0ns
+Sequence Number: 13, Delay: +1679036.0ns
+Sequence Number: 14, Delay: +1679053.0ns
+Sequence Number: 15, Delay: +1679045.0ns
+Sequence Number: 16, Delay: +1679011.0ns
+Sequence Number: 17, Delay: +1679025.0ns
+Finished simulation 631 at 14:53:08  😃. Execution duration: 233 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.498s)
+Sequence Number: 0, Delay: +18752850.0ns
+Sequence Number: 1, Delay: +3018589889.0ns
+Sequence Number: 2, Delay: +1019477115.0ns
+Sequence Number: 3, Delay: +2565599.0ns
+Sequence Number: 4, Delay: +17086313.0ns
+Sequence Number: 6, Delay: +2565556.0ns
+Sequence Number: 7, Delay: +6963917.0ns
+Sequence Number: 8, Delay: +2565678.0ns
+Sequence Number: 9, Delay: +2565686.0ns
+Sequence Number: 10, Delay: +2565691.0ns
+Sequence Number: 11, Delay: +2565693.0ns
+Sequence Number: 14, Delay: +2565669.0ns
+Finished simulation 634 at 14:56:41  😃. Execution duration: 213 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.502s)
+Sequence Number: 0, Delay: +10600286.0ns
+Sequence Number: 1, Delay: +1678758.0ns
+Sequence Number: 2, Delay: +1678738.0ns
+Sequence Number: 3, Delay: +1678733.0ns
+Sequence Number: 4, Delay: +1678742.0ns
+Sequence Number: 5, Delay: +1678749.0ns
+Sequence Number: 6, Delay: +1678746.0ns
+Sequence Number: 7, Delay: +1678734.0ns
+Sequence Number: 8, Delay: +1678720.0ns
+Sequence Number: 9, Delay: +1678715.0ns
+Sequence Number: 10, Delay: +1678718.0ns
+Sequence Number: 11, Delay: +1678724.0ns
+Sequence Number: 12, Delay: +1678731.0ns
+Sequence Number: 13, Delay: +1678738.0ns
+Sequence Number: 14, Delay: +1678736.0ns
+Sequence Number: 15, Delay: +1678745.0ns
+Sequence Number: 16, Delay: +1678764.0ns
+Sequence Number: 17, Delay: +1678773.0ns
+Finished simulation 635 at 15:00:38  😃. Execution duration: 237 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.495s)
+Sequence Number: 0, Delay: +27943143.0ns
+Sequence Number: 1, Delay: +21449701.0ns
+Sequence Number: 2, Delay: +3452162.0ns
+Sequence Number: 4, Delay: +3452170.0ns
+Sequence Number: 8, Delay: +15042810.0ns
+Sequence Number: 9, Delay: +3452386.0ns
+Sequence Number: 10, Delay: +3452378.0ns
+Sequence Number: 11, Delay: +3452366.0ns
+Sequence Number: 12, Delay: +3452390.0ns
+Sequence Number: 13, Delay: +3452414.0ns
+Finished simulation 636 at 15:05:12  😃. Execution duration: 274 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.497s)
+Sequence Number: 0, Delay: +22907944.0ns
+Sequence Number: 1, Delay: +4338683.0ns
+Sequence Number: 5, Delay: +22065504.0ns
+Sequence Number: 6, Delay: +21443284.0ns
+Sequence Number: 7, Delay: +4338339.0ns
+Sequence Number: 10, Delay: +4338664.0ns
+Sequence Number: 11, Delay: +4338645.0ns
+Sequence Number: 12, Delay: +4338635.0ns
+Sequence Number: 13, Delay: +4338639.0ns
+Sequence Number: 14, Delay: +4338617.0ns
+Sequence Number: 15, Delay: +4338612.0ns
+Finished simulation 639 at 15:09:29  😃. Execution duration: 257 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.488s)
+Sequence Number: 0, Delay: +45916206.0ns
+Sequence Number: 5, Delay: +44345790.0ns
+Sequence Number: 6, Delay: +21817088.0ns
+Sequence Number: 7, Delay: +6998017.0ns
+Sequence Number: 8, Delay: +6997872.0ns
+Sequence Number: 9, Delay: +6997894.0ns
+Sequence Number: 12, Delay: +28241142.0ns
+Sequence Number: 13, Delay: +25321760.0ns
+Sequence Number: 14, Delay: +10469995.0ns
+Sequence Number: 15, Delay: +6111843.0ns
+Sequence Number: 16, Delay: +6111858.0ns
+Sequence Number: 17, Delay: +6111847.0ns
+Finished simulation 640 at 15:14:06  😃. Execution duration: 277 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.493s)
+Sequence Number: 0, Delay: +21798228.0ns
+Sequence Number: 1, Delay: +20788907.0ns
+Sequence Number: 2, Delay: +3451955.0ns
+Sequence Number: 3, Delay: +3451953.0ns
+Sequence Number: 4, Delay: +3451964.0ns
+Sequence Number: 5, Delay: +3451959.0ns
+Sequence Number: 6, Delay: +3451956.0ns
+Sequence Number: 7, Delay: +3451960.0ns
+Sequence Number: 8, Delay: +13253067.0ns
+Sequence Number: 9, Delay: +4569118.0ns
+Sequence Number: 10, Delay: +3452122.0ns
+Sequence Number: 11, Delay: +3452127.0ns
+Sequence Number: 12, Delay: +3452136.0ns
+Sequence Number: 14, Delay: +17159082.0ns
+Sequence Number: 15, Delay: +3452097.0ns
+Sequence Number: 16, Delay: +3452119.0ns
+Sequence Number: 17, Delay: +3452130.0ns
+Finished simulation 644 at 15:18:46  😃. Execution duration: 280 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.492s)
+Sequence Number: 0, Delay: +1015670572.0ns
+Sequence Number: 1, Delay: +3451539.0ns
+Sequence Number: 2, Delay: +3451556.0ns
+Sequence Number: 3, Delay: +19924189.0ns
+Sequence Number: 4, Delay: +4551058.0ns
+Sequence Number: 5, Delay: +3452011.0ns
+Sequence Number: 6, Delay: +3451976.0ns
+Sequence Number: 7, Delay: +9198405.0ns
+Sequence Number: 8, Delay: +8258120.0ns
+Sequence Number: 9, Delay: +4914849.0ns
+Sequence Number: 10, Delay: +2565657.0ns
+Sequence Number: 11, Delay: +3833651.0ns
+Sequence Number: 12, Delay: +2565439.0ns
+Sequence Number: 13, Delay: +2565453.0ns
+Sequence Number: 17, Delay: +9577836.0ns
+Finished simulation 646 at 15:21:54  😃. Execution duration: 188 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.475s)
+Finished simulation 647 at 15:24:37  😃. Execution duration: 163 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.490s)
+Sequence Number: 1, Delay: +1012826920.0ns
+Sequence Number: 2, Delay: +13054416.0ns
+Sequence Number: 3, Delay: +4338423.0ns
+Sequence Number: 4, Delay: +4338416.0ns
+Sequence Number: 5, Delay: +4338396.0ns
+Sequence Number: 6, Delay: +13973948.0ns
+Sequence Number: 7, Delay: +16688364.0ns
+Sequence Number: 11, Delay: +4338630.0ns
+Sequence Number: 12, Delay: +4338635.0ns
+Sequence Number: 13, Delay: +4338659.0ns
+Sequence Number: 14, Delay: +4338645.0ns
+Sequence Number: 15, Delay: +4338635.0ns
+Finished simulation 649 at 15:28:08  😃. Execution duration: 211 sec.

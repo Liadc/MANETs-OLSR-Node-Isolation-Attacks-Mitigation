@@ -1,0 +1,5 @@
+sudo ./run-sims-mitigation_60-100nodes.sh > ./output/log50-only-att-noDef.out 2>&1
+
+
+sudo ./run-sims-mitigation_60-100nodes.sh > ./output/60-100/log50-only-att-noDef.out 2>&1
+

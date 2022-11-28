@@ -1,0 +1,355 @@
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+[1173/1649] cxx: src/applications/model/udp-server.cc -> build/src/applications/model/udp-server.cc.1.o
+[1585/1649] cxxshlib: build/src/applications/model/bulk-send-application.cc.1.o build/src/applications/model/onoff-application.cc.1.o build/src/applications/model/packet-sink.cc.1.o build/src/applications/model/ping6.cc.1.o build/src/applications/model/radvd.cc.1.o build/src/applications/model/radvd-interface.cc.1.o build/src/applications/model/radvd-prefix.cc.1.o build/src/applications/model/udp-client.cc.1.o build/src/applications/model/udp-server.cc.1.o build/src/applications/model/seq-ts-header.cc.1.o build/src/applications/model/udp-trace-client.cc.1.o build/src/applications/model/packet-loss-counter.cc.1.o build/src/applications/model/udp-echo-client.cc.1.o build/src/applications/model/udp-echo-server.cc.1.o build/src/applications/model/v4ping.cc.1.o build/src/applications/model/application-packet-probe.cc.1.o build/src/applications/helper/bulk-send-helper.cc.1.o build/src/applications/helper/on-off-helper.cc.1.o build/src/applications/helper/packet-sink-helper.cc.1.o build/src/applications/helper/ping6-helper.cc.1.o build/src/applications/helper/udp-client-server-helper.cc.1.o build/src/applications/helper/udp-echo-helper.cc.1.o build/src/applications/helper/v4ping-helper.cc.1.o build/src/applications/helper/radvd-helper.cc.1.o -> build/libns3.19-applications-debug.so
+[1587/1649] cxxshlib: build/src/wave/model/wave-mac-low.cc.1.o build/src/wave/model/ocb-wifi-mac.cc.1.o build/src/wave/model/vendor-specific-action.cc.1.o build/src/wave/model/higher-tx-tag.cc.1.o build/src/wave/helper/wave-mac-helper.cc.1.o build/src/wave/helper/wifi-80211p-helper.cc.1.o -> build/libns3.19-wave-debug.so
+[1590/1649] cxxshlib: build/src/csma/model/backoff.cc.1.o build/src/csma/model/csma-net-device.cc.1.o build/src/csma/model/csma-channel.cc.1.o build/src/csma/helper/csma-helper.cc.1.o -> build/libns3.19-csma-debug.so
+[1590/1649] cxxshlib: build/src/spectrum/model/spectrum-model.cc.1.o build/src/spectrum/model/spectrum-value.cc.1.o build/src/spectrum/model/spectrum-converter.cc.1.o build/src/spectrum/model/spectrum-signal-parameters.cc.1.o build/src/spectrum/model/spectrum-propagation-loss-model.cc.1.o build/src/spectrum/model/friis-spectrum-propagation-loss.cc.1.o build/src/spectrum/model/constant-spectrum-propagation-loss.cc.1.o build/src/spectrum/model/spectrum-phy.cc.1.o build/src/spectrum/model/spectrum-channel.cc.1.o build/src/spectrum/model/single-model-spectrum-channel.cc.1.o build/src/spectrum/model/multi-model-spectrum-channel.cc.1.o build/src/spectrum/model/spectrum-interference.cc.1.o build/src/spectrum/model/spectrum-error-model.cc.1.o build/src/spectrum/model/spectrum-model-ism2400MHz-res1MHz.cc.1.o build/src/spectrum/model/spectrum-model-300kHz-300GHz-log.cc.1.o build/src/spectrum/model/wifi-spectrum-value-helper.cc.1.o build/src/spectrum/model/waveform-generator.cc.1.o build/src/spectrum/model/spectrum-analyzer.cc.1.o build/src/spectrum/model/aloha-noack-mac-header.cc.1.o build/src/spectrum/model/aloha-noack-net-device.cc.1.o build/src/spectrum/model/half-duplex-ideal-phy.cc.1.o build/src/spectrum/model/half-duplex-ideal-phy-signal-parameters.cc.1.o build/src/spectrum/model/non-communicating-net-device.cc.1.o build/src/spectrum/model/microwave-oven-spectrum-value-helper.cc.1.o build/src/spectrum/helper/spectrum-helper.cc.1.o build/src/spectrum/helper/adhoc-aloha-noack-ideal-phy-helper.cc.1.o build/src/spectrum/helper/waveform-generator-helper.cc.1.o build/src/spectrum/helper/spectrum-analyzer-helper.cc.1.o -> build/libns3.19-spectrum-debug.so
+[1593/1649] cxxshlib: build/src/wimax/model/cid.cc.1.o build/src/wimax/model/cid-factory.cc.1.o build/src/wimax/model/wimax-net-device.cc.1.o build/src/wimax/model/bs-net-device.cc.1.o build/src/wimax/model/ss-net-device.cc.1.o build/src/wimax/model/wimax-mac-header.cc.1.o build/src/wimax/model/wimax-phy.cc.1.o build/src/wimax/model/wimax-channel.cc.1.o build/src/wimax/model/ofdm-downlink-frame-prefix.cc.1.o build/src/wimax/model/wimax-connection.cc.1.o build/src/wimax/model/ss-record.cc.1.o build/src/wimax/model/mac-messages.cc.1.o build/src/wimax/model/dl-mac-messages.cc.1.o build/src/wimax/model/ul-mac-messages.cc.1.o build/src/wimax/model/simple-ofdm-wimax-phy.cc.1.o build/src/wimax/model/simple-ofdm-wimax-channel.cc.1.o build/src/wimax/model/send-params.cc.1.o build/src/wimax/model/ss-manager.cc.1.o build/src/wimax/model/connection-manager.cc.1.o build/src/wimax/model/bs-uplink-scheduler.cc.1.o build/src/wimax/model/bs-uplink-scheduler-simple.cc.1.o build/src/wimax/model/bs-uplink-scheduler-mbqos.cc.1.o build/src/wimax/model/bs-uplink-scheduler-rtps.cc.1.o build/src/wimax/model/bs-scheduler.cc.1.o build/src/wimax/model/bs-scheduler-simple.cc.1.o build/src/wimax/model/bs-scheduler-rtps.cc.1.o build/src/wimax/model/wimax-mac-queue.cc.1.o build/src/wimax/model/burst-profile-manager.cc.1.o build/src/wimax/model/ss-scheduler.cc.1.o build/src/wimax/model/service-flow.cc.1.o build/src/wimax/model/service-flow-manager.cc.1.o build/src/wimax/model/service-flow-record.cc.1.o build/src/wimax/model/ss-link-manager.cc.1.o build/src/wimax/model/bs-link-manager.cc.1.o build/src/wimax/model/bandwidth-manager.cc.1.o build/src/wimax/model/crc8.cc.1.o build/src/wimax/model/ul-job.cc.1.o build/src/wimax/model/snr-to-block-error-rate-record.cc.1.o build/src/wimax/model/snr-to-block-error-rate-manager.cc.1.o build/src/wimax/model/simple-ofdm-send-param.cc.1.o build/src/wimax/model/ss-service-flow-manager.cc.1.o build/src/wimax/model/bs-service-flow-manager.cc.1.o build/src/wimax/model/ipcs-classifier.cc.1.o build/src/wimax/model/ipcs-classifier-record.cc.1.o build/src/wimax/model/wimax-tlv.cc.1.o build/src/wimax/model/cs-parameters.cc.1.o build/src/wimax/model/wimax-mac-to-mac-header.cc.1.o build/src/wimax/helper/wimax-helper.cc.1.o -> build/libns3.19-wimax-debug.so
+[1597/1649] cxxshlib: build/src/mesh/model/mesh-information-element-vector.cc.1.o build/src/mesh/model/mesh-point-device.cc.1.o build/src/mesh/model/mesh-l2-routing-protocol.cc.1.o build/src/mesh/model/mesh-wifi-beacon.cc.1.o build/src/mesh/model/mesh-wifi-interface-mac.cc.1.o build/src/mesh/model/dot11s/ie-dot11s-beacon-timing.cc.1.o build/src/mesh/model/dot11s/ie-dot11s-configuration.cc.1.o build/src/mesh/model/dot11s/ie-dot11s-id.cc.1.o build/src/mesh/model/dot11s/ie-dot11s-peer-management.cc.1.o build/src/mesh/model/dot11s/ie-dot11s-preq.cc.1.o build/src/mesh/model/dot11s/ie-dot11s-prep.cc.1.o build/src/mesh/model/dot11s/ie-dot11s-perr.cc.1.o build/src/mesh/model/dot11s/ie-dot11s-rann.cc.1.o build/src/mesh/model/dot11s/ie-dot11s-peering-protocol.cc.1.o build/src/mesh/model/dot11s/ie-dot11s-metric-report.cc.1.o build/src/mesh/model/dot11s/dot11s-mac-header.cc.1.o build/src/mesh/model/dot11s/peer-link-frame.cc.1.o build/src/mesh/model/dot11s/peer-link.cc.1.o build/src/mesh/model/dot11s/peer-management-protocol-mac.cc.1.o build/src/mesh/model/dot11s/peer-management-protocol.cc.1.o build/src/mesh/model/dot11s/hwmp-tag.cc.1.o build/src/mesh/model/dot11s/hwmp-rtable.cc.1.o build/src/mesh/model/dot11s/hwmp-protocol-mac.cc.1.o build/src/mesh/model/dot11s/hwmp-protocol.cc.1.o build/src/mesh/model/dot11s/airtime-metric.cc.1.o build/src/mesh/model/flame/flame-header.cc.1.o build/src/mesh/model/flame/flame-rtable.cc.1.o build/src/mesh/model/flame/flame-protocol-mac.cc.1.o build/src/mesh/model/flame/flame-protocol.cc.1.o build/src/mesh/helper/mesh-helper.cc.1.o build/src/mesh/helper/dot11s/dot11s-installer.cc.1.o build/src/mesh/helper/flame/flame-installer.cc.1.o -> build/libns3.19-mesh-debug.so
+[1598/1649] cxxshlib: build/src/solsr/model/solsr-header.cc.1.o build/src/solsr/model/solsr-state.cc.1.o build/src/solsr/model/solsr-routing-protocol.cc.1.o build/src/solsr/helper/solsr-helper.cc.1.o -> build/libns3.19-solsr-debug.so
+[1600/1649] cxxshlib: build/src/iolsr/model/iolsr-header.cc.1.o build/src/iolsr/model/iolsr-state.cc.1.o build/src/iolsr/model/iolsr-routing-protocol.cc.1.o build/src/iolsr/helper/iolsr-helper.cc.1.o -> build/libns3.19-iolsr-debug.so
+[1601/1649] cxxshlib: build/src/olsr/model/olsr-header.cc.1.o build/src/olsr/model/olsr-state.cc.1.o build/src/olsr/model/olsr-routing-protocol.cc.1.o build/src/olsr/helper/olsr-helper.cc.1.o -> build/libns3.19-olsr-debug.so
+[1602/1649] cxxshlib: build/src/lsr/model/lsr-header.cc.1.o build/src/lsr/model/lsr-state.cc.1.o build/src/lsr/model/lsr-routing-protocol.cc.1.o build/src/lsr/helper/lsr-helper.cc.1.o -> build/libns3.19-lsr-debug.so
+[1603/1649] cxxshlib: build/src/ibolsr/model/ibolsr-header.cc.1.o build/src/ibolsr/model/ibolsr-state.cc.1.o build/src/ibolsr/model/ibolsr-routing-protocol.cc.1.o build/src/ibolsr/helper/ibolsr-helper.cc.1.o -> build/libns3.19-ibolsr-debug.so
+[1604/1649] cxxshlib: build/src/lte/model/lte-common.cc.1.o build/src/lte/model/lte-spectrum-phy.cc.1.o build/src/lte/model/lte-spectrum-signal-parameters.cc.1.o build/src/lte/model/lte-phy.cc.1.o build/src/lte/model/lte-enb-phy.cc.1.o build/src/lte/model/lte-ue-phy.cc.1.o build/src/lte/model/lte-spectrum-value-helper.cc.1.o build/src/lte/model/lte-amc.cc.1.o build/src/lte/model/lte-enb-rrc.cc.1.o build/src/lte/model/lte-ue-rrc.cc.1.o build/src/lte/model/lte-rrc-sap.cc.1.o build/src/lte/model/lte-rrc-protocol-ideal.cc.1.o build/src/lte/model/lte-rrc-protocol-real.cc.1.o build/src/lte/model/lte-rlc-sap.cc.1.o build/src/lte/model/lte-rlc.cc.1.o build/src/lte/model/lte-rlc-sequence-number.cc.1.o build/src/lte/model/lte-rlc-header.cc.1.o build/src/lte/model/lte-rlc-am-header.cc.1.o build/src/lte/model/lte-rlc-tm.cc.1.o build/src/lte/model/lte-rlc-um.cc.1.o build/src/lte/model/lte-rlc-am.cc.1.o build/src/lte/model/lte-rlc-tag.cc.1.o build/src/lte/model/lte-rlc-sdu-status-tag.cc.1.o build/src/lte/model/lte-pdcp-sap.cc.1.o build/src/lte/model/lte-pdcp.cc.1.o build/src/lte/model/lte-pdcp-header.cc.1.o build/src/lte/model/lte-pdcp-tag.cc.1.o build/src/lte/model/eps-bearer.cc.1.o build/src/lte/model/lte-radio-bearer-info.cc.1.o build/src/lte/model/lte-net-device.cc.1.o build/src/lte/model/lte-enb-net-device.cc.1.o build/src/lte/model/lte-ue-net-device.cc.1.o build/src/lte/model/lte-control-messages.cc.1.o build/src/lte/helper/lte-helper.cc.1.o build/src/lte/helper/lte-stats-calculator.cc.1.o build/src/lte/helper/epc-helper.cc.1.o build/src/lte/helper/point-to-point-epc-helper.cc.1.o build/src/lte/helper/radio-bearer-stats-calculator.cc.1.o build/src/lte/helper/radio-bearer-stats-connector.cc.1.o build/src/lte/helper/phy-stats-calculator.cc.1.o build/src/lte/helper/mac-stats-calculator.cc.1.o build/src/lte/helper/phy-tx-stats-calculator.cc.1.o build/src/lte/helper/phy-rx-stats-calculator.cc.1.o build/src/lte/helper/radio-environment-map-helper.cc.1.o build/src/lte/helper/lte-hex-grid-enb-topology-helper.cc.1.o build/src/lte/helper/lte-global-pathloss-database.cc.1.o build/src/lte/model/rem-spectrum-phy.cc.1.o build/src/lte/model/ff-mac-common.cc.1.o build/src/lte/model/ff-mac-csched-sap.cc.1.o build/src/lte/model/ff-mac-sched-sap.cc.1.o build/src/lte/model/lte-mac-sap.cc.1.o build/src/lte/model/ff-mac-scheduler.cc.1.o build/src/lte/model/lte-enb-cmac-sap.cc.1.o build/src/lte/model/lte-ue-cmac-sap.cc.1.o build/src/lte/model/rr-ff-mac-scheduler.cc.1.o build/src/lte/model/lte-enb-mac.cc.1.o build/src/lte/model/lte-ue-mac.cc.1.o build/src/lte/model/lte-radio-bearer-tag.cc.1.o build/src/lte/model/eps-bearer-tag.cc.1.o build/src/lte/model/lte-phy-tag.cc.1.o build/src/lte/model/lte-enb-phy-sap.cc.1.o build/src/lte/model/lte-enb-cphy-sap.cc.1.o build/src/lte/model/lte-ue-phy-sap.cc.1.o build/src/lte/model/lte-ue-cphy-sap.cc.1.o build/src/lte/model/lte-interference.cc.1.o build/src/lte/model/lte-sinr-chunk-processor.cc.1.o build/src/lte/model/pf-ff-mac-scheduler.cc.1.o build/src/lte/model/fdmt-ff-mac-scheduler.cc.1.o build/src/lte/model/tdmt-ff-mac-scheduler.cc.1.o build/src/lte/model/tta-ff-mac-scheduler.cc.1.o build/src/lte/model/fdbet-ff-mac-scheduler.cc.1.o build/src/lte/model/tdbet-ff-mac-scheduler.cc.1.o build/src/lte/model/fdtbfq-ff-mac-scheduler.cc.1.o build/src/lte/model/tdtbfq-ff-mac-scheduler.cc.1.o build/src/lte/model/pss-ff-mac-scheduler.cc.1.o build/src/lte/model/epc-gtpu-header.cc.1.o build/src/lte/model/trace-fading-loss-model.cc.1.o build/src/lte/model/epc-enb-application.cc.1.o build/src/lte/model/epc-sgw-pgw-application.cc.1.o build/src/lte/model/epc-x2-sap.cc.1.o build/src/lte/model/epc-x2-header.cc.1.o build/src/lte/model/epc-x2.cc.1.o build/src/lte/model/epc-tft.cc.1.o build/src/lte/model/epc-tft-classifier.cc.1.o build/src/lte/model/lte-mi-error-model.cc.1.o build/src/lte/model/lte-vendor-specific-parameters.cc.1.o build/src/lte/model/epc-enb-s1-sap.cc.1.o build/src/lte/model/epc-s1ap-sap.cc.1.o build/src/lte/model/epc-s11-sap.cc.1.o build/src/lte/model/lte-as-sap.cc.1.o build/src/lte/model/epc-ue-nas.cc.1.o build/src/lte/model/lte-harq-phy.cc.1.o build/src/lte/model/epc-mme.cc.1.o build/src/lte/model/lte-asn1-header.cc.1.o build/src/lte/model/lte-rrc-header.cc.1.o build/src/lte/model/lte-handover-management-sap.cc.1.o build/src/lte/model/lte-handover-algorithm.cc.1.o build/src/lte/model/a2-a4-rsrq-handover-algorithm.cc.1.o build/src/lte/model/a3-rsrp-handover-algorithm.cc.1.o build/src/lte/model/no-op-handover-algorithm.cc.1.o build/src/lte/model/lte-anr-sap.cc.1.o build/src/lte/model/lte-anr.cc.1.o -> build/libns3.19-lte-debug.so
+[1605/1649] cxxshlib: build/src/dsr/model/dsr-routing.cc.1.o build/src/dsr/model/dsr-options.cc.1.o build/src/dsr/model/dsr-fs-header.cc.1.o build/src/dsr/model/dsr-option-header.cc.1.o build/src/dsr/model/dsr-maintain-buff.cc.1.o build/src/dsr/model/dsr-passive-buff.cc.1.o build/src/dsr/model/dsr-rsendbuff.cc.1.o build/src/dsr/model/dsr-rcache.cc.1.o build/src/dsr/model/dsr-rreq-table.cc.1.o build/src/dsr/model/dsr-gratuitous-reply-table.cc.1.o build/src/dsr/model/dsr-errorbuff.cc.1.o build/src/dsr/model/dsr-network-queue.cc.1.o build/src/dsr/helper/dsr-helper.cc.1.o build/src/dsr/helper/dsr-main-helper.cc.1.o -> build/libns3.19-dsr-debug.so
+[1607/1649] cxxshlib: build/src/aodv/model/aodv-id-cache.cc.1.o build/src/aodv/model/aodv-dpd.cc.1.o build/src/aodv/model/aodv-rtable.cc.1.o build/src/aodv/model/aodv-rqueue.cc.1.o build/src/aodv/model/aodv-packet.cc.1.o build/src/aodv/model/aodv-neighbor.cc.1.o build/src/aodv/model/aodv-routing-protocol.cc.1.o build/src/aodv/helper/aodv-helper.cc.1.o -> build/libns3.19-aodv-debug.so
+[1607/1649] cxxshlib: build/src/dsdv/model/dsdv-rtable.cc.1.o build/src/dsdv/model/dsdv-packet-queue.cc.1.o build/src/dsdv/model/dsdv-packet.cc.1.o build/src/dsdv/model/dsdv-routing-protocol.cc.1.o build/src/dsdv/helper/dsdv-helper.cc.1.o -> build/libns3.19-dsdv-debug.so
+[1608/1649] cxxshlib: build/src/netanim/model/animation-interface.cc.1.o build/src/netanim/helper/animation-interface-helper.cc.1.o -> build/libns3.19-netanim-debug.so
+[1610/1649] cxxshlib: build/src/point-to-point-layout/model/point-to-point-dumbbell.cc.1.o build/src/point-to-point-layout/model/point-to-point-grid.cc.1.o build/src/point-to-point-layout/model/point-to-point-star.cc.1.o -> build/libns3.19-point-to-point-layout-debug.so
+[1610/1649] cxxshlib: build/src/csma-layout/model/csma-star-helper.cc.1.o -> build/libns3.19-csma-layout-debug.so
+[1611/1649] cxxshlib:  -> build/libns3.19-test-debug.so
+[1612/1649] cxxprogram: build/scratch/grid_attack.cc.6.o -> build/scratch/grid_attack
+[1613/1649] cxxprogram: build/scratch/stable_network.cc.12.o -> build/scratch/stable_network
+[1614/1649] cxxprogram: build/scratch/ring_test2.cc.21.o -> build/scratch/ring_test2
+[1615/1649] cxxprogram: build/scratch/bottleneckSpray.cc.16.o -> build/scratch/bottleneckSpray
+[1617/1649] cxxprogram: build/scratch/5-12-production/iolsr-tests.cc.9.o -> build/scratch/5-12-production/5-12-production
+[1617/1649] cxxprogram: build/scratch/collAttack.cc.7.o -> build/scratch/collAttack
+[1618/1649] cxxprogram: build/scratch/bottleneck.cc.2.o -> build/scratch/bottleneck
+[1619/1649] cxxprogram: build/scratch/stable_network_mod.cc.15.o -> build/scratch/stable_network_mod
+[1620/1649] cxxprogram: build/scratch/iolsr-tests-movement-100.cc.1.o -> build/scratch/iolsr-tests-movement-100
+[1621/1649] cxxprogram: build/utils/test-runner.cc.1.o -> build/utils/ns3.19-test-runner-debug
+[1622/1649] cxxprogram: build/scratch/subdir/scratch-simulator-subdir.cc.4.o -> build/scratch/subdir/subdir
+[1623/1649] cxxprogram: build/scratch/c6_tests.cc.11.o -> build/scratch/c6_tests
+[1624/1649] cxxprogram: build/scratch/iolsr-tests-mitigation.cc.3.o -> build/scratch/iolsr-tests-mitigation
+[1626/1649] cxxprogram: build/scratch/iolsr-tests-100.cc.14.o -> build/scratch/iolsr-tests-100
+[1626/1649] cxxprogram: build/scratch/iolsr-tests-newAttack.cc.8.o -> build/scratch/iolsr-tests-newAttack
+[1627/1649] cxxprogram: build/scratch/iolsr-tests-6ring.cc.17.o -> build/scratch/iolsr-tests-6ring
+[1628/1649] cxxprogram: build/scratch/mprRate.cc.10.o -> build/scratch/mprRate
+[1629/1649] cxxprogram: build/scratch/bottleneckSpraySend.cc.5.o -> build/scratch/bottleneckSpraySend
+[1630/1649] cxxprogram: build/scratch/scratch-simulator.cc.20.o -> build/scratch/scratch-simulator
+[1631/1649] cxxprogram: build/scratch/mprRate1.cc.19.o -> build/scratch/mprRate1
+[1632/1649] cxxprogram: build/scratch/iolsr-tests-mitigation_60-100.cc.18.o -> build/scratch/iolsr-tests-mitigation_60-100
+[1633/1649] cxxprogram: build/scratch/ring_test.cc.22.o -> build/scratch/ring_test
+[1634/1649] cxxprogram: build/utils/print-introspected-doxygen.cc.4.o -> build/utils/ns3.19-print-introspected-doxygen-debug
+[1635/1649] cxxprogram: build/scratch/bottleneckTwoNetworks.cc.13.o -> build/scratch/bottleneckTwoNetworks
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (8.189s)
+Sequence Number: 0, Delay: +22374647.0ns
+Sequence Number: 1, Delay: +6946568.0ns
+Sequence Number: 2, Delay: +4338578.0ns
+Sequence Number: 3, Delay: +4338559.0ns
+Sequence Number: 4, Delay: +4338521.0ns
+Sequence Number: 5, Delay: +4338528.0ns
+Sequence Number: 6, Delay: +4338524.0ns
+Sequence Number: 7, Delay: +4338513.0ns
+Sequence Number: 8, Delay: +4338549.0ns
+Sequence Number: 9, Delay: +4338571.0ns
+Sequence Number: 10, Delay: +4338576.0ns
+Sequence Number: 11, Delay: +4338582.0ns
+Sequence Number: 14, Delay: +4338574.0ns
+Sequence Number: 15, Delay: +4338565.0ns
+Sequence Number: 16, Delay: +3931592.0ns
+Sequence Number: 17, Delay: +3452353.0ns
+Finished simulation 560 at 19:01:06  😃. Execution duration: 199 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.510s)
+Sequence Number: 0, Delay: +43499074.0ns
+Sequence Number: 1, Delay: +20719422.0ns
+Sequence Number: 2, Delay: +6111356.0ns
+Sequence Number: 3, Delay: +6111366.0ns
+Sequence Number: 4, Delay: +6111364.0ns
+Sequence Number: 5, Delay: +6111293.0ns
+Sequence Number: 6, Delay: +6111255.0ns
+Sequence Number: 7, Delay: +6111248.0ns
+Sequence Number: 8, Delay: +6111241.0ns
+Sequence Number: 9, Delay: +6111211.0ns
+Sequence Number: 10, Delay: +6111158.0ns
+Sequence Number: 11, Delay: +6111179.0ns
+Sequence Number: 12, Delay: +13703884.0ns
+Sequence Number: 13, Delay: +6111200.0ns
+Sequence Number: 14, Delay: +6111240.0ns
+Sequence Number: 15, Delay: +6111248.0ns
+Sequence Number: 16, Delay: +7120219.0ns
+Sequence Number: 17, Delay: +6111240.0ns
+Finished simulation 565 at 19:04:09  😃. Execution duration: 183 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.503s)
+Sequence Number: 0, Delay: +38497361.0ns
+Sequence Number: 1, Delay: +14963146.0ns
+Sequence Number: 2, Delay: +5225137.0ns
+Sequence Number: 3, Delay: +5225133.0ns
+Sequence Number: 4, Delay: +5225130.0ns
+Sequence Number: 5, Delay: +5225147.0ns
+Sequence Number: 6, Delay: +5225138.0ns
+Sequence Number: 7, Delay: +5225103.0ns
+Sequence Number: 8, Delay: +5225130.0ns
+Sequence Number: 9, Delay: +5225146.0ns
+Sequence Number: 16, Delay: +29354657.0ns
+Finished simulation 572 at 19:07:17  😃. Execution duration: 188 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.490s)
+Sequence Number: 0, Delay: +24807684.0ns
+Sequence Number: 4, Delay: +20567927.0ns
+Sequence Number: 5, Delay: +3452050.0ns
+Sequence Number: 6, Delay: +3452045.0ns
+Sequence Number: 7, Delay: +3452047.0ns
+Sequence Number: 8, Delay: +3452043.0ns
+Sequence Number: 9, Delay: +3452035.0ns
+Sequence Number: 10, Delay: +3452021.0ns
+Sequence Number: 11, Delay: +3452004.0ns
+Sequence Number: 15, Delay: +10006554.0ns
+Sequence Number: 16, Delay: +3452133.0ns
+Sequence Number: 17, Delay: +3452146.0ns
+Finished simulation 576 at 19:10:17  😃. Execution duration: 180 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.487s)
+Sequence Number: 0, Delay: +1027187007.0ns
+Sequence Number: 1, Delay: +4338668.0ns
+Sequence Number: 2, Delay: +11840938.0ns
+Sequence Number: 3, Delay: +17094799.0ns
+Sequence Number: 4, Delay: +4338638.0ns
+Sequence Number: 8, Delay: +38437610.0ns
+Sequence Number: 9, Delay: +4338601.0ns
+Sequence Number: 10, Delay: +4338627.0ns
+Sequence Number: 11, Delay: +4338601.0ns
+Sequence Number: 12, Delay: +4338579.0ns
+Sequence Number: 13, Delay: +22506855.0ns
+Sequence Number: 14, Delay: +4338587.0ns
+Sequence Number: 15, Delay: +4338645.0ns
+Sequence Number: 16, Delay: +4338660.0ns
+Finished simulation 588 at 19:13:46  😃. Execution duration: 209 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.488s)
+Sequence Number: 0, Delay: +19745936.0ns
+Sequence Number: 1, Delay: +2565326.0ns
+Sequence Number: 2, Delay: +2565328.0ns
+Sequence Number: 3, Delay: +2565330.0ns
+Sequence Number: 4, Delay: +2565330.0ns
+Sequence Number: 5, Delay: +2565339.0ns
+Sequence Number: 12, Delay: +8249477.0ns
+Sequence Number: 13, Delay: +2565341.0ns
+Sequence Number: 14, Delay: +2565353.0ns
+Sequence Number: 15, Delay: +2565361.0ns
+Sequence Number: 16, Delay: +2565405.0ns
+Sequence Number: 17, Delay: +2565399.0ns
+Finished simulation 593 at 19:17:57  😃. Execution duration: 251 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.504s)
+Sequence Number: 0, Delay: +39441191.0ns
+Sequence Number: 5, Delay: +16068324.0ns
+Sequence Number: 6, Delay: +8929615.0ns
+Finished simulation 601 at 19:20:01  😃. Execution duration: 124 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.479s)
+Sequence Number: 0, Delay: +14118563.0ns
+Sequence Number: 1, Delay: +4338530.0ns
+Sequence Number: 2, Delay: +4338521.0ns
+Sequence Number: 5, Delay: +14063828.0ns
+Sequence Number: 6, Delay: +4338486.0ns
+Sequence Number: 7, Delay: +4338503.0ns
+Sequence Number: 8, Delay: +4338500.0ns
+Sequence Number: 9, Delay: +4338506.0ns
+Sequence Number: 10, Delay: +4338518.0ns
+Finished simulation 604 at 19:23:16  😃. Execution duration: 195 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.501s)
+Finished simulation 606 at 19:25:59  😃. Execution duration: 163 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.489s)
+Sequence Number: 1, Delay: +18189985.0ns
+Sequence Number: 2, Delay: +3451646.0ns
+Sequence Number: 3, Delay: +16330717.0ns
+Sequence Number: 4, Delay: +2565607.0ns
+Sequence Number: 5, Delay: +2565595.0ns
+Sequence Number: 6, Delay: +2565595.0ns
+Sequence Number: 7, Delay: +2565605.0ns
+Sequence Number: 8, Delay: +2565631.0ns
+Sequence Number: 9, Delay: +2565637.0ns
+Sequence Number: 10, Delay: +2565622.0ns
+Sequence Number: 11, Delay: +2565629.0ns
+Sequence Number: 12, Delay: +2565636.0ns
+Sequence Number: 13, Delay: +2565645.0ns
+Sequence Number: 14, Delay: +2565660.0ns
+Sequence Number: 15, Delay: +2565669.0ns
+Sequence Number: 16, Delay: +2565669.0ns
+Finished simulation 612 at 19:29:05  😃. Execution duration: 186 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.484s)
+Sequence Number: 0, Delay: +21851910.0ns
+Sequence Number: 1, Delay: +14234256.0ns
+Sequence Number: 2, Delay: +3451708.0ns
+Sequence Number: 5, Delay: +3451699.0ns
+Sequence Number: 6, Delay: +20863757.0ns
+Sequence Number: 7, Delay: +3451695.0ns
+Sequence Number: 10, Delay: +3451692.0ns
+Sequence Number: 14, Delay: +8764854.0ns
+Sequence Number: 15, Delay: +3451685.0ns
+Sequence Number: 16, Delay: +3451685.0ns
+Sequence Number: 17, Delay: +3451673.0ns
+Finished simulation 614 at 19:31:46  😃. Execution duration: 161 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.491s)
+Sequence Number: 0, Delay: +24340172.0ns
+Sequence Number: 1, Delay: +5224722.0ns
+Sequence Number: 2, Delay: +5224706.0ns
+Sequence Number: 3, Delay: +24173164.0ns
+Sequence Number: 4, Delay: +5224856.0ns
+Sequence Number: 5, Delay: +5224860.0ns
+Sequence Number: 6, Delay: +12079481.0ns
+Sequence Number: 8, Delay: +5224730.0ns
+Sequence Number: 9, Delay: +5224724.0ns
+Sequence Number: 10, Delay: +5224722.0ns
+Sequence Number: 11, Delay: +20905313.0ns
+Sequence Number: 12, Delay: +5224968.0ns
+Sequence Number: 13, Delay: +5224960.0ns
+Sequence Number: 14, Delay: +5224933.0ns
+Sequence Number: 15, Delay: +5224924.0ns
+Sequence Number: 16, Delay: +5224935.0ns
+Sequence Number: 17, Delay: +5224907.0ns
+Finished simulation 615 at 19:34:17  😃. Execution duration: 151 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.488s)
+Sequence Number: 5, Delay: +36750902.0ns
+Sequence Number: 6, Delay: +16582268.0ns
+Finished simulation 617 at 19:36:32  😃. Execution duration: 135 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.516s)
+Sequence Number: 0, Delay: +33132452.0ns
+Sequence Number: 1, Delay: +4338470.0ns
+Sequence Number: 2, Delay: +4338470.0ns
+Sequence Number: 3, Delay: +13348614.0ns
+Sequence Number: 4, Delay: +4338303.0ns
+Sequence Number: 5, Delay: +4338331.0ns
+Sequence Number: 6, Delay: +4338352.0ns
+Sequence Number: 7, Delay: +4338368.0ns
+Sequence Number: 8, Delay: +6410540.0ns
+Sequence Number: 9, Delay: +4338546.0ns
+Sequence Number: 10, Delay: +4338568.0ns
+Sequence Number: 11, Delay: +12202737.0ns
+Sequence Number: 12, Delay: +4338540.0ns
+Sequence Number: 13, Delay: +5086457.0ns
+Sequence Number: 14, Delay: +4338508.0ns
+Sequence Number: 15, Delay: +4338514.0ns
+Sequence Number: 16, Delay: +4338533.0ns
+Sequence Number: 17, Delay: +4338542.0ns
+Finished simulation 619 at 19:39:27  😃. Execution duration: 175 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.481s)
+Sequence Number: 0, Delay: +32437736.0ns
+Sequence Number: 4, Delay: +6111944.0ns
+Sequence Number: 5, Delay: +7084969.0ns
+Sequence Number: 6, Delay: +6111960.0ns
+Sequence Number: 8, Delay: +6111914.0ns
+Sequence Number: 9, Delay: +6111918.0ns
+Sequence Number: 10, Delay: +6111934.0ns
+Sequence Number: 11, Delay: +6111914.0ns
+Sequence Number: 12, Delay: +6111888.0ns
+Sequence Number: 13, Delay: +10810065.0ns
+Sequence Number: 14, Delay: +6111903.0ns
+Finished simulation 620 at 19:41:42  😃. Execution duration: 135 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.479s)
+Finished simulation 623 at 19:44:12  😃. Execution duration: 150 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.501s)
+Sequence Number: 0, Delay: +27861867.0ns
+Sequence Number: 4, Delay: +15172529.0ns
+Sequence Number: 5, Delay: +3452208.0ns
+Sequence Number: 6, Delay: +3452199.0ns
+Sequence Number: 7, Delay: +3452214.0ns
+Sequence Number: 8, Delay: +3452174.0ns
+Sequence Number: 9, Delay: +3824148.0ns
+Sequence Number: 10, Delay: +3452136.0ns
+Sequence Number: 11, Delay: +17216124.0ns
+Sequence Number: 12, Delay: +3451797.0ns
+Finished simulation 629 at 19:46:17  😃. Execution duration: 125 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.493s)
+Sequence Number: 0, Delay: +14371811.0ns
+Sequence Number: 1, Delay: +1678924.0ns
+Sequence Number: 2, Delay: +1678907.0ns
+Sequence Number: 3, Delay: +1678907.0ns
+Sequence Number: 4, Delay: +1678924.0ns
+Sequence Number: 5, Delay: +1678913.0ns
+Sequence Number: 6, Delay: +1678914.0ns
+Sequence Number: 7, Delay: +1678931.0ns
+Sequence Number: 8, Delay: +1678916.0ns
+Sequence Number: 9, Delay: +1678907.0ns
+Sequence Number: 10, Delay: +1678905.0ns
+Sequence Number: 11, Delay: +1678905.0ns
+Sequence Number: 12, Delay: +1678913.0ns
+Sequence Number: 13, Delay: +1678931.0ns
+Sequence Number: 14, Delay: +1678920.0ns
+Sequence Number: 15, Delay: +1678910.0ns
+Sequence Number: 16, Delay: +1678904.0ns
+Sequence Number: 17, Delay: +1678881.0ns
+Finished simulation 631 at 19:49:30  😃. Execution duration: 193 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.484s)
+Sequence Number: 1, Delay: +15824837.0ns
+Sequence Number: 2, Delay: +2565264.0ns
+Sequence Number: 3, Delay: +2565253.0ns
+Sequence Number: 4, Delay: +2565245.0ns
+Sequence Number: 9, Delay: +11940881.0ns
+Finished simulation 634 at 19:51:38  😃. Execution duration: 128 sec.
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (0.502s)
+Sequence Number: 3, Delay: +3015532045.0ns
+Sequence Number: 4, Delay: +1016455181.0ns
+Sequence Number: 5, Delay: +5225296.0ns
+Sequence Number: 6, Delay: +5225295.0ns
+Sequence Number: 7, Delay: +5225293.0ns
+Sequence Number: 8, Delay: +5225269.0ns
+Sequence Number: 9, Delay: +5225247.0ns
+Sequence Number: 10, Delay: +6153225.0ns
+Sequence Number: 11, Delay: +5225199.0ns
+Sequence Number: 12, Delay: +5225189.0ns
+Sequence Number: 13, Delay: +5225196.0ns
+Sequence Number: 14, Delay: +5225201.0ns
+Sequence Number: 15, Delay: +5225201.0ns
+Sequence Number: 16, Delay: +5225196.0ns
+Finished simulation 635 at 17:24:31  😃. Execution duration: 509573 sec.
+./run-sims-mitigation_60-100nodes.sh: line 9: output/simulations/With_Movement/att-1_def-1/Mitigation/50n-e2eDelay/636.txt: No such file or directory
+Finished simulation 636 at 17:24:31  😃. Execution duration: 0 sec.
+./run-sims-mitigation_60-100nodes.sh: line 9: output/simulations/With_Movement/att-1_def-1/Mitigation/50n-e2eDelay/639.txt: No such file or directory
+Finished simulation 639 at 17:24:31  😃. Execution duration: 0 sec.
+./run-sims-mitigation_60-100nodes.sh: line 9: output/simulations/With_Movement/att-1_def-1/Mitigation/50n-e2eDelay/640.txt: No such file or directory
+Finished simulation 640 at 17:24:31  😃. Execution duration: 0 sec.
+./run-sims-mitigation_60-100nodes.sh: line 9: output/simulations/With_Movement/att-1_def-1/Mitigation/50n-e2eDelay/644.txt: No such file or directory
+Finished simulation 644 at 17:24:31  😃. Execution duration: 0 sec.
+./run-sims-mitigation_60-100nodes.sh: line 9: output/simulations/With_Movement/att-1_def-1/Mitigation/50n-e2eDelay/646.txt: No such file or directory
+Finished simulation 646 at 17:24:31  😃. Execution duration: 0 sec.
+./run-sims-mitigation_60-100nodes.sh: line 9: output/simulations/With_Movement/att-1_def-1/Mitigation/50n-e2eDelay/647.txt: No such file or directory
+Finished simulation 647 at 17:24:31  😃. Execution duration: 0 sec.
+./run-sims-mitigation_60-100nodes.sh: line 9: output/simulations/With_Movement/att-1_def-1/Mitigation/50n-e2eDelay/649.txt: No such file or directory
+Finished simulation 649 at 17:24:31  😃. Execution duration: 0 sec.

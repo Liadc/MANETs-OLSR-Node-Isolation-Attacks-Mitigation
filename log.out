@@ -1,0 +1,22 @@
+Waf: Entering directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+[ 791/1649] cxx: scratch/iolsr-tests-mitigation_60-100.cc -> build/scratch/iolsr-tests-mitigation_60-100.cc.18.o
+[1614/1649] cxxprogram: build/scratch/iolsr-tests-mitigation_60-100.cc.18.o -> build/scratch/iolsr-tests-mitigation_60-100
+Waf: Leaving directory `/home/liad/NS3/ns-allinone-3.19/ns-3.19/build'
+'build' finished successfully (3.011s)
+TraceDelay: RX 500 bytes from 10.0.0.2 Sequence Number: 0 Uid: 93388 TXtime: +250000000000.0ns RXtime: +250022374647.0ns Delay: +22374647.0ns
+TraceDelay: RX 500 bytes from 10.0.0.2 Sequence Number: 1 Uid: 96127 TXtime: +252000000000.0ns RXtime: +252006946568.0ns Delay: +6946568.0ns
+TraceDelay: RX 500 bytes from 10.0.0.2 Sequence Number: 2 Uid: 96239 TXtime: +254000000000.0ns RXtime: +254004338578.0ns Delay: +4338578.0ns
+TraceDelay: RX 500 bytes from 10.0.0.2 Sequence Number: 3 Uid: 98446 TXtime: +256000000000.0ns RXtime: +256004338559.0ns Delay: +4338559.0ns
+TraceDelay: RX 500 bytes from 10.0.0.2 Sequence Number: 4 Uid: 99110 TXtime: +258000000000.0ns RXtime: +258004338521.0ns Delay: +4338521.0ns
+TraceDelay: RX 500 bytes from 10.0.0.2 Sequence Number: 5 Uid: 99216 TXtime: +260000000000.0ns RXtime: +260004338528.0ns Delay: +4338528.0ns
+TraceDelay: RX 500 bytes from 10.0.0.2 Sequence Number: 6 Uid: 101962 TXtime: +262000000000.0ns RXtime: +262004338524.0ns Delay: +4338524.0ns
+TraceDelay: RX 500 bytes from 10.0.0.2 Sequence Number: 7 Uid: 102068 TXtime: +264000000000.0ns RXtime: +264004338513.0ns Delay: +4338513.0ns
+TraceDelay: RX 500 bytes from 10.0.0.2 Sequence Number: 8 Uid: 104533 TXtime: +266000000000.0ns RXtime: +266004338549.0ns Delay: +4338549.0ns
+TraceDelay: RX 500 bytes from 10.0.0.2 Sequence Number: 9 Uid: 104936 TXtime: +268000000000.0ns RXtime: +268004338571.0ns Delay: +4338571.0ns
+TraceDelay: RX 500 bytes from 10.0.0.2 Sequence Number: 10 Uid: 105042 TXtime: +270000000000.0ns RXtime: +270004338576.0ns Delay: +4338576.0ns
+TraceDelay: RX 500 bytes from 10.0.0.2 Sequence Number: 11 Uid: 107796 TXtime: +272000000000.0ns RXtime: +272004338582.0ns Delay: +4338582.0ns
+TraceDelay: RX 500 bytes from 10.0.0.2 Sequence Number: 14 Uid: 110784 TXtime: +278000000000.0ns RXtime: +278004338574.0ns Delay: +4338574.0ns
+TraceDelay: RX 500 bytes from 10.0.0.2 Sequence Number: 15 Uid: 110890 TXtime: +280000000000.0ns RXtime: +280004338565.0ns Delay: +4338565.0ns
+TraceDelay: RX 500 bytes from 10.0.0.2 Sequence Number: 16 Uid: 113638 TXtime: +282000000000.0ns RXtime: +282003931592.0ns Delay: +3931592.0ns
+TraceDelay: RX 500 bytes from 10.0.0.2 Sequence Number: 17 Uid: 113755 TXtime: +284000000000.0ns RXtime: +284003452353.0ns Delay: +3452353.0ns
+[92mFinished simulation #[42m560[0m at 15:24:52 😃  Execution duration: 191 sec.
